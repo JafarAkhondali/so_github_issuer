@@ -1,0 +1,10 @@
+{
+  "created_timestamp": 0,
+  "vulnerabilities":[
+    {
+      "full_repo_name": "JafarAkhondali/GSama",
+      "issue_title": "This a test for issue title",
+      "issue_body" : "And this is multiline \n sample body with `markdown` and Emjoi :sweat_smile: Support"
+    }
+  ]
+}
